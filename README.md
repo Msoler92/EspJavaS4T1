@@ -68,6 +68,6 @@ Haurà de respondre a:
 
 ## Recursos addicionals
 
-StackOverflow - Service layer: https://stackoverflow.com/questions/5702391/mvcs-model-view-controller-service
+Deplying Spring Boot applications - https://spring.io/blog/2014/03/07/deploying-spring-boot-applications/
 
 Youtube - Julian Mesa - Postman: https://www.youtube.com/playlist?list=PLeo6Q1inqlOeC_zQMg2i3aZcGF_Jmyqd4
